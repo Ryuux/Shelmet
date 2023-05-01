@@ -1,0 +1,17 @@
+{
+  "name": "shelmet",
+  "version": "1.0.0",
+  "description": "A package that provides utility functions for email validation, password validation and generation, and date manipulation.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "validation",
+    "password",
+    "email",
+    "date"
+  ],
+  "author": "ILoveRyuux",
+  "license": "ISC"
+}
